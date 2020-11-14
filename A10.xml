@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	
+ <!--DeviceRepos-->
+  <project path="device/xiaomi/ido" name="LayeardDevMod/device_xiaomi_ido" remote="github" revision="A10" clone-depth="1" />
+  <project path="vendor/xiaomi/ido" name="LayeardDevMod/vendor_xiaomi_ido" remote="github" revision="A10" clone-depth="1" />
+  <project path="kernel/xiaomi/msm8916" name="LayeardDevMod/kernel_xiaomi_ido" remote="github" revision="A10" clone-depth="1" />
+  
+
+</manifest>
